@@ -1,6 +1,6 @@
 # Práctica: Manejo de Excepciones y Sistema de Veterinaria
 
-Este repositorio contiene la resolución de los 10 ejercicios de **Manejo de Excepciones** (implícitas y explícitas) y la implementación de la **Práctica Unidad 4** (Sistema de Veterinaria con SQLite) utilizando Programación Orientada a Objetos (POO).
+Este repositorio contiene la resolución de los 10 ejercicios de **Manejo de Excepciones** (implícitas y explícitas) y la implementación de la **Práctica Unidad 4** (Sistema de Veterinaria con SQLite) utilizando Programación Orientada a Objetos (POO). Con la versión de Python 3.14
 
 ---
 
